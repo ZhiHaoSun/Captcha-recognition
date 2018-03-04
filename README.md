@@ -4,6 +4,8 @@
 
 Recognition for this type of CAPTCHA:
 
-![1](https://github.com/)
-![2](https://github.com/)
-![3](https://github.com/)
+![1](https://github.com/ZhiHaoSun/Captcha-recognition/blob/master/images/18bo.png)
+![2](https://github.com/ZhiHaoSun/Captcha-recognition/blob/master/images/4s70.png)
+![3](https://github.com/ZhiHaoSun/Captcha-recognition/blob/master/images/922j.png)
+
+Run captcha.py to generate more training data
